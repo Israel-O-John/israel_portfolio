@@ -63,7 +63,7 @@ function Contact() {
           <div className="mt-12">
             <LinkButton
               size="lg"
-              href="mailto:alex.chen@example.com"
+              href="mailto:osuborisrael3@gmail.com"
               className="bg-black text-white rounded-md hover:bg-black/90"
             >
               Send Me an Email
