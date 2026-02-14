@@ -14,14 +14,6 @@ function Project() {
       githubUrl: "https://github.com/Israel-O-John/To-Do",
     },
     {
-      title: "Task Minder ",
-      description: "Task Minder is a production management app",
-      image: "Task Minder.png",
-      technologies: ["Javascript", "CSS", "HTML"],
-      liveUrl: "https://taskmindrrer.netlify.app/",
-      githubUrl: "https://github.com/Israel-O-John/taskMinder",
-    },
-    {
       title: "W. News",
       description:
         "W.news is a news app homepage. I took the design from Frontend mentor challenges.",
